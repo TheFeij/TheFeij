@@ -13,8 +13,8 @@
   </a>
 </div>
 
-# 💫 About Me:
-Passionate CE student On the path to become a professional backend developer (⌐■_■)
+# 😎 Who's Feij?
+Feij is a Passionate CE student On the path to become a professional backend developer (⌐■_■)
 
 
 # 💻 Technologies & Languages:
