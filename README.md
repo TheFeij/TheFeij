@@ -14,7 +14,7 @@
 </div>
 
 # 😎 Who's Feij?
-I am Developer. The Developer loves money (⌐■_■)
+I am Back-End Developer. The Developer loves money (⌐■_■)
 
 
 # 💻 Technologies & Languages:
