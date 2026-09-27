@@ -6,12 +6,13 @@
 
 Building backend systems, developer tools, and occasionally things that i need for my personal use.
 
-<br/>
+<div id="badges" align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/TheFeij)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/thefeij/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:abolfazl.moradi.feijani@gmail.com)
 
 </div>
+
 
 ---
 
