@@ -4,15 +4,14 @@
 
 ### Software Engineer · Backend Developer
 
-Building backend systems, developer tools, and occasionally things that i need for my personal use.
+Building backend systems, developer tools, and occasionally things that I need for my personal use.
 
-<div id="badges" align="center">
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/thefeij/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:abolfazl.moradi.feijani@gmail.com)
 
 </div>
-
 
 ---
 
@@ -73,37 +72,37 @@ Designing and implementing backend services around **Go, PostgreSQL, MongoDB, Re
 
 ### 🔬 Side Projects
 
-Currently working on a yt-dlp GUI using golang and wails, currently private and in progress
+Currently working on a **yt-dlp GUI** using **Go and Wails**.
+The project is currently private and in active development.
 
 ---
 
 ## 📈 Engineering Interests
 
-```text
+<pre align="left">
 Backend Engineering
-        │
-        ├── Go
-        │
-        └── Performance
-        |     ├── Concurrency
-        |     ├── Resource Efficiency
-        |     └── Data Processing
-        │
-        ├── Architecture
-        │     ├── DDD
-        │     ├── Hexagonal
-        │     ├── Event-Driven
-        │     └── Microservices
-        │
-        ├── Useful Everyday Tools
-
-```
+│
+├── Go
+│
+├── Performance
+│   ├── Concurrency
+│   ├── Resource Efficiency
+│   └── Data Processing
+│
+├── Architecture
+│   ├── DDD
+│   ├── Hexagonal
+│   ├── Event-Driven
+│   └── Microservices
+│
+└── Useful Everyday Tools
+</pre>
 
 ---
 
 ## 📫 Contact
 
-If you ever needed to contact, email is the best way reach me:
+If you ever need to contact me, email is the best way to reach me:
 
 **Email:** [abolfazl.moradi.feijani@gmail.com](mailto:abolfazl.moradi.feijani@gmail.com)
 
@@ -111,6 +110,6 @@ If you ever needed to contact, email is the best way reach me:
 
 <div align="center">
 
-### `Do not be Afraid. Start it. You will learn on the way`
+### `Do not be afraid. Start it. You will learn on the way.`
 
 </div>
